@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Feifei (Sophia) Qian — doctoral student at Beijing Normal University working on graph machine learning, LLM evaluation and LLM Post-training."
+excerpt: "Feifei (Sophia) Qian — Ph.D. student at Beijing Normal University working on graph machine learning, LLM evaluation and LLM Post-training."
 author_profile: true
 redirect_from:
   - /about/
@@ -10,9 +10,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am **Feifei Qian (Sophia)**, a PhD student in Intelligent Science and Technology at Beijing Normal University, advised by [Prof. Lu Bai](https://ai.bnu.edu.cn/xygk/szdw/zgj/915900432d1c400a84fb60fd99621b20.htm).
+Hi! I am **Feifei Qian (Sophia)**, a Ph.D. student in Intelligent Science and Technology at Beijing Normal University, advised by [Prof. Lu Bai](https://ai.bnu.edu.cn/xygk/szdw/zgj/915900432d1c400a84fb60fd99621b20.htm).
 
-My research focuses on **graph machine learning, LLM evaluation, and LLM Post-training.** I study how structural organization and information preservation affect representation learning and evaluation: from graph kernels, entropy-based structural encoding, and over-smoothing to rubric generation, LLM-as-a-judge, and agent post-training.
+My research focuses on **graph machine learning, LLM evaluation, and LLM Post-training.**
 
 Specifically, my research focuses on:
 
@@ -73,11 +73,14 @@ Specifically, my research focuses on:
 - **From Structure to Validity: Mechanism-Guided Generation and Refinement of LLM Rubrics**. **Feifei Qian**, Xuan Chen, Chaoyang Mei, Fanlin Meng, Shuyao Xiao, Ming Cui, Lu Bai. Submitted to **ICLR 2027**; under review.
   - Mechanism-guided rubric generation and refinement, response calibration, and rubric-based rewards for LLM post-training. -->
 
-<span class='anchor' id='honors'></span>
+<span class='anchor' id='awards'></span>
 
-<!-- # 🎖 Honors and Awards
-- First-Class Entrance Scholarship, First-Class Academic Scholarship, Academic Innovation Award.
-- National Scholarship, Huawei Scholarship, Outstanding Graduate of Anhui Province. -->
+# 🎖 Honors and Awards
+
+- **2022:** National Scholarship (Top 1%).
+- **2021:** Huawei Scholarship.
+
+<span class='anchor' id='honors'></span>
 
 # 🤝 Academic Service
 
@@ -88,7 +91,7 @@ Specifically, my research focuses on:
 <span class='anchor' id='education'></span>
 
 # 📖 Education
-- **September 2023 – June 2028 (expected)**, Beijing Normal University. Integrated master's–doctoral program in Intelligent Science and Technology.
+- **September 2023 – June 2028 (expected)**, Beijing Normal University. Ph.D.
 - **September 2019 – June 2023**, Anhui University. Bachelor's degree in Computer Science and Technology.
 
 <span class='anchor' id='internships'></span>
