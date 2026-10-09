@@ -7,7 +7,7 @@ author_profile: true
 
 # 📚 Technical Blog
 
-Notes on graph learning, large language models, and the ideas that connect them. Some posts are written in Chinese.
+Notes on graph learning, large language models, and the ideas that connect them.
 
 ## [Do Rubrics Expand What RL Can Learn?](https://sophiaqian02.github.io/2026/10/09/rubrics-and-rl/)
 

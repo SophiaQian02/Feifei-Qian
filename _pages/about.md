@@ -12,13 +12,10 @@ redirect_from:
 
 Hi! I am **Feifei Qian (Sophia)**, a Ph.D. student in Intelligent Science and Technology at Beijing Normal University, advised by [Prof. Lu Bai](https://ai.bnu.edu.cn/xygk/szdw/zgj/915900432d1c400a84fb60fd99621b20.htm).
 
-My research focuses on **graph machine learning, LLM evaluation, and LLM Post-training.**
+My research interests lie in **graph machine learning** and **LLM evaluation and post-training**, with a particular focus on:
 
-Specifically, my research focuses on:
-
-- **Graph Machine Learning:** Understanding and improving the expressive power of graph kernels and graph neural networks, with a focus on structural encoding, information preservation, and over-smoothing.
-- **LLM Rubrics:** Investigating how rubric structure, evaluation criteria, and aggregation strategies affect evaluation validity; constructing controlled benchmarks for mechanism analysis; and studying how rubric-based reward signals influence LLM post-training.
-
+- **Graph Machine Learning:** Studying graph kernels and the expressive power of graph neural networks, with an emphasis on structural encoding, information preservation, and over-smoothing.
+- **LLM Rubrics:** Understanding how rubric design shapes evaluation and learning, developing benchmarks for systematic analysis, and investigating the role of rubric-based rewards in LLM post-training.
 
 <span class='anchor' id='news'></span>
 
@@ -110,6 +107,3 @@ Specifically, my research focuses on:
 
 - [**Do Rubrics Expand What RL Can Learn?**](https://sophiaqian02.github.io/2026/10/09/rubrics-and-rl/) — experiments on rubric-guided RL, judge choice, reward design, and reasoning coverage.
 - [Browse the technical notebook →](https://sophiaqian02.github.io/)
-
-<!-- - [**GraphRAG: From Retrieval to Connected Knowledge**]({{ '/blog/graphrag/' | relative_url }}) — entities, relationships, community summaries, and local/global search. Written in Chinese.
-- [Browse all notes →]({{ '/blog/' | relative_url }}) -->
