@@ -91,7 +91,7 @@ Specifically, my research focuses on:
 <span class='anchor' id='education'></span>
 
 # 📖 Education
-- **September 2023 – June 2028 (expected)**, Beijing Normal University. Ph.D.
+- **September 2023 – June 2028 (expected)**, Beijing Normal University. Ph.D. student
 - **September 2019 – June 2023**, Anhui University. Bachelor's degree in Computer Science and Technology.
 
 <span class='anchor' id='internships'></span>
