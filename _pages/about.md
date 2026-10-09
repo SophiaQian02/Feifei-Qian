@@ -80,8 +80,8 @@ Specifically, my research focuses on:
 # 🤝 Academic Service
 
 **Reviewer**
-- **Journals:** Pattern Recognition; IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
-- **Conferences:** Neural Information Processing Systems (NeurIPS); International Conference on Learning Representations (ICLR).
+- **Journals:** Pattern Recognition; IEEE Transactions on Neural Networks and Learning Systems (TNNLS); Neural Networks.
+- **Conferences:** NeurIPS 2026 (Top Reviewer); ICLR 2027; WWW 2024.
 
 <span class='anchor' id='education'></span>
 
