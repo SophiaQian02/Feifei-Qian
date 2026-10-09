@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I am **Feifei Qian (Sophia)**, a Ph.D. student in Intelligent Science and Technology at Beijing Normal University, advised by [Prof. Lu Bai](https://ai.bnu.edu.cn/xygk/szdw/zgj/915900432d1c400a84fb60fd99621b20.htm).
+Hi! I am **Feifei Qian (Sophia)**, a Ph.D. student in the School of Artificial Intelligence at Beijing Normal University, advised by [Prof. Lu Bai](https://ai.bnu.edu.cn/xygk/szdw/zgj/915900432d1c400a84fb60fd99621b20.htm).
 
 My research interests span **graph machine learning, LLM evaluation, and LLM post-training**, with a particular focus on:
 
