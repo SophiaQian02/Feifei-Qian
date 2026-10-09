@@ -13,7 +13,7 @@ Notes on graph learning, large language models, and the ideas that connect them.
 
 *October 9, 2026* · Rubrics / Reinforcement Learning / Distillation
 
-An experimental look at judge choice, reward design, and the difference between sampling efficiency and reasoning coverage.
+Exploring how rubrics influence reinforcement learning and reasoning capabilities in LLM post-training.
 
 [Read the experiment log →](https://sophiaqian02.github.io/2026/10/09/rubrics-and-rl/) · [Browse the technical notebook →](https://sophiaqian02.github.io/)
 

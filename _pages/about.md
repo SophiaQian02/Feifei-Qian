@@ -105,5 +105,5 @@ My research interests lie in **graph machine learning** and **LLM evaluation and
 
 # 📚 Technical Blog
 
-- [**Do Rubrics Expand What RL Can Learn?**](https://sophiaqian02.github.io/2026/10/09/rubrics-and-rl/) — experiments on rubric-guided RL, judge choice, reward design, and reasoning coverage.
+- [**Do Rubrics Expand What RL Can Learn?**](https://sophiaqian02.github.io/2026/10/09/rubrics-and-rl/) — Exploring how rubrics influence reinforcement learning and reasoning capabilities in LLM post-training.
 - [Browse the technical notebook →](https://sophiaqian02.github.io/)
