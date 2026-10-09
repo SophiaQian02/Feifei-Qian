@@ -12,7 +12,7 @@ redirect_from:
 
 Hi! I am **Feifei Qian (Sophia)**, a Ph.D. student in Intelligent Science and Technology at Beijing Normal University, advised by [Prof. Lu Bai](https://ai.bnu.edu.cn/xygk/szdw/zgj/915900432d1c400a84fb60fd99621b20.htm).
 
-My research interests lie in **graph machine learning** and **LLM evaluation and post-training**, with a particular focus on:
+My research interests span **graph machine learning, LLM evaluation, and LLM post-training**, with a particular focus on:
 
 - **Graph Machine Learning:** Studying graph kernels and the expressive power of graph neural networks, with an emphasis on structural encoding, information preservation, and over-smoothing.
 - **LLM Rubrics:** Understanding how rubric design shapes evaluation and learning, developing benchmarks for systematic analysis, and investigating the role of rubric-based rewards in LLM post-training.
