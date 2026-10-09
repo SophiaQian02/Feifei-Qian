@@ -25,6 +25,8 @@ Specifically, my research focuses on:
 # 🔥 News
 - **2026.09:** 🎉 Our paper, **“Beyond Coordinates: Encoding Graph Structure via Contextual Distribution and Relational Similarity,”** has been accepted to **NeurIPS 2026 as a Spotlight**!
 - **2026.05:** Joined the **Language and Intelligence Group at Beike** as an **LLM Algorithm Intern**, working on agent training and evaluation.
+- **2025.05:** One paper has been accepted to **IJCAI 2025**!
+- **2024.12:** One paper has been accepted to **AAAI 2025**!
 
 <span class='anchor' id='publications'></span>
 
