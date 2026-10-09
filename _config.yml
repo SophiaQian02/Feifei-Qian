@@ -6,10 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+title                    : "Feifei (Sophia) Qian"
+description              : "Graph Machine Learning · LLM Evaluation · Intelligent Agents"
+repository               : "SophiaQian02/Sophia_Qian.github.io"
+google_scholar_stats_use_cdn : false
+google_scholar_stats_enabled : false
+url                      : "https://sophiaqian02.github.io"
+baseurl                  : "/Sophia_Qian.github.io"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,14 +24,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Feifei (Sophia) Qian"
+  avatar           : "/images/portrait.JPG"
+  bio              : "Doctoral Student, Beijing Normal University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    :  # Add your own Google Scholar URL when available
+  email            : "Sophia0830BNU@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "SophiaQian02"
   google_plus      :
   keybase          :
   instagram        :
@@ -77,9 +80,14 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
+  - Gemfile.lock
+  - Gemfile.preview
+  - Gemfile.preview.lock
   - Gruntfile.js
   - LICENSE
   - README
+  - README.md
+  - run_server.sh
   - Rakefile
   - assets/js/_main.js
   - assets/js/plugins
@@ -143,14 +151,12 @@ timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
   - jekyll-feed
   - jemoji
 

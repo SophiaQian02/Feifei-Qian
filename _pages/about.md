@@ -1,58 +1,106 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+excerpt: "Feifei (Sophia) Qian — doctoral student at Beijing Normal University working on graph machine learning, LLM evaluation and LLM Post-training."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I am **Feifei Qian (Sophia)**, a PhD student in Intelligent Science and Technology at Beijing Normal University, advised by [Prof. Lu Bai](https://ai.bnu.edu.cn/xygk/szdw/zgj/915900432d1c400a84fb60fd99621b20.htm).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on **graph machine learning, LLM evaluation, and LLM Post-training.** I study how structural organization and information preservation affect representation learning and evaluation: from graph kernels, entropy-based structural encoding, and over-smoothing to rubric generation, LLM-as-a-judge, and agent post-training.
 
+Specifically, my research focuses on:
+
+- **Graph Machine Learning:** Understanding and improving the expressive power of graph kernels and graph neural networks, with a focus on structural encoding, information preservation, and over-smoothing.
+- **LLM Rubrics:** Investigating how rubric structure, evaluation criteria, and aggregation strategies affect evaluation validity; constructing controlled benchmarks for mechanism analysis; and studying how rubric-based reward signals influence LLM post-training.
+
+
+<span class='anchor' id='news'></span>
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- **2026.09:** 🎉 Our paper, **“Beyond Coordinates: Encoding Graph Structure via Contextual Distribution and Relational Similarity,”** has been accepted to **NeurIPS 2026 as a Spotlight**!
+- **2026.05:** Joined the **Language and Intelligence Group at Beike** as an **LLM Algorithm Intern**, working on agent training and evaluation.
 
-# 📝 Publications 
+<span class='anchor' id='publications'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Selected Publications
+
+<!-- Copy a complete paper-box block to add another featured publication. -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 · Spotlight</div><img src='{{ "/images/papers/entse.svg" | relative_url }}' alt="Conceptual overview of entropy-based structural encoding" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Beyond Coordinates: Encoding Graph Structure via Contextual Distribution and Relational Similarity**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Feifei Qian**, Lu Bai, Lixin Cui, Ming Li, Hangyuan Du, Edwin Hancock
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- EntSE and KerSE encode graph structure through contextual spectral distributions and relational similarity, connecting local information with expressive graph representations.
+</div></div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025 · Oral</div><img src='{{ "/images/papers/sde.svg" | relative_url }}' alt="Conceptual overview of sampling and discretization in high-entropy regions" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Exploring the Over-smoothing Problem of Graph Neural Networks for Graph Classification: An Entropy-based Viewpoint**](https://www.ijcai.org/proceedings/2025/360)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Feifei Qian**, Lu Bai, Lixin Cui, Ming Li, Hangyuan Du, Yue Wang, Edwin Hancock
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[**Paper**](https://www.ijcai.org/proceedings/2025/360) / [**PDF**](https://www.ijcai.org/proceedings/2025/0360.pdf)
+- An entropy-based perspective on graph-level over-smoothing, with sampling and feature discretization to preserve information in high-entropy regions.
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 · Poster</div><img src='{{ "/images/papers/dhakr.svg" | relative_url }}' alt="Conceptual overview of hierarchical substructure composition and attention" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**DHAKR: Learning Deep Hierarchical Attention-Based Kernelized Representations for Graph Classification**](https://ojs.aaai.org/index.php/AAAI/article/download/34202/36357)
+
+**Feifei Qian**, Lu Bai, Lixin Cui, Ming Li, Ziyu Lyu, Hangyuan Du, Edwin Hancock
+
+[**Paper**](https://ojs.aaai.org/index.php/AAAI/article/download/34202/36357)
+- Hierarchical substructure composition with entropy regularization, feature-level attention, and kernel-level attention for end-to-end graph classification.
+</div></div>
+
+<!-- - [**AKBR: Learning Adaptive Kernel-based Representations for Graph Classification**](https://www.ijcai.org/proceedings/2025/301). Lu Bai, **Feifei Qian**, Lixin Cui, Ming Li, Hangyuan Du, Yue Wang, Edwin Hancock. **IJCAI 2025, Oral**. First student author.
+- [**Graph Kernel Neural Networks: A Preliminary Review**](https://journal.hep.com.cn/fcs/EN/10.1007/s11704-026-51780-y). Lu Bai, **Feifei Qian**, Ming Li, Lixin Cui, Edwin R. Hancock. **Frontiers of Computer Science**, published online in 2026. First student author. -->
+
+<!-- ## Under Review
+
+- **From Structure to Validity: Mechanism-Guided Generation and Refinement of LLM Rubrics**. **Feifei Qian**, Xuan Chen, Chaoyang Mei, Fanlin Meng, Shuyao Xiao, Ming Cui, Lu Bai. Submitted to **ICLR 2027**; under review.
+  - Mechanism-guided rubric generation and refinement, response calibration, and rubric-based rewards for LLM post-training. -->
+
+<span class='anchor' id='honors'></span>
+
+<!-- # 🎖 Honors and Awards
+- First-Class Entrance Scholarship, First-Class Academic Scholarship, Academic Innovation Award.
+- National Scholarship, Huawei Scholarship, Outstanding Graduate of Anhui Province. -->
+
+# 🤝 Academic Service
+
+**Reviewer**
+- **Journals:** Pattern Recognition; IEEE Transactions on Neural Networks and Learning Systems (TNNLS).
+- **Conferences:** Neural Information Processing Systems (NeurIPS); International Conference on Learning Representations (ICLR).
+
+<span class='anchor' id='education'></span>
+
+# 📖 Education
+- **September 2023 – June 2028 (expected)**, Beijing Normal University. Integrated master's–doctoral program in Intelligent Science and Technology.
+- **September 2019 – June 2023**, Anhui University. Bachelor's degree in Computer Science and Technology.
+
+<span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- **May 2026 – September 2026**, **Beike**, LLM Algorithm Intern.
+  - Developed agent data pipelines and two-stage supervised fine-tuning.
+  - Built rubric-driven evaluation for AIGC agent workflows, covering tool-use trajectories, execution constraints, and delivery quality.
+
+- **October 2022 – May 2023**, **NIO**, Software Engineering Intern.
+  - Contributed to engineering tooling and quality assurance workflows, supporting software reliability and development efficiency.
+
+<span class='anchor' id='technical-notes'></span>
+
+# 📚 Technical Notes
+<!-- - [**GraphRAG: From Retrieval to Connected Knowledge**]({{ '/blog/graphrag/' | relative_url }}) — entities, relationships, community summaries, and local/global search. Written in Chinese.
+- [Browse all notes →]({{ '/blog/' | relative_url }}) -->
