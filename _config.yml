@@ -8,11 +8,11 @@
 # Site Settings
 title                    : "Feifei Qian | Beijing Normal University"
 description              : "Graph Machine Learning · LLM Evaluation · LLM Post-training"
-repository               : "SophiaQian02/Sophia_Qian.github.io"
+repository               : "SophiaQian02/Feifei-Qian"
 google_scholar_stats_use_cdn : false
 google_scholar_stats_enabled : false
-url                      : "https://sophiaqian02.github.io"
-baseurl                  : "/Sophia_Qian.github.io"
+url                      : "https://sophiaqian.com"
+baseurl                  : ""
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
