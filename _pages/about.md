@@ -103,6 +103,9 @@ Specifically, my research focuses on:
 
 <span class='anchor' id='technical-notes'></span>
 
-# 📚 Technical Notes
+# 📚 Technical Blog
+
+- [**Do Rubrics Expand What RL Can Learn?**](https://sophiaqian02.github.io/2026/10/09/rubrics-and-rl/) — experiments on rubric-guided RL, judge choice, reward design, and reasoning coverage.
+- [Browse the technical notebook →](https://sophiaqian02.github.io/)
 <!-- - [**GraphRAG: From Retrieval to Connected Knowledge**]({{ '/blog/graphrag/' | relative_url }}) — entities, relationships, community summaries, and local/global search. Written in Chinese.
 - [Browse all notes →]({{ '/blog/' | relative_url }}) -->

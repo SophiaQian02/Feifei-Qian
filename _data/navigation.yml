@@ -9,5 +9,5 @@ main:
     url: "/#education"
   - title: "Internships"
     url: "/#internships"
-  - title: "Blog"
-    url: "/blog/"
+  - title: "Technical Blog"
+    url: "https://sophiaqian02.github.io/"
