@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "Feifei (Sophia) Qian — Ph.D. student at Beijing Normal University working on graph machine learning, LLM evaluation and LLM Post-training."
+excerpt: "Feifei Qian (Sophia) is a Ph.D. student at Beijing Normal University researching graph machine learning, LLM evaluation, and LLM post-training. Explore her publications, research, and technical blog."
 author_profile: true
 redirect_from:
   - /about/

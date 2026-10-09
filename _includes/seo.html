@@ -73,4 +73,19 @@
 {% if site.baidu_site_verification %}
   <meta name="baidu-site-verification" content="{{ site.baidu_site_verification }}" />
 {% endif %}
+{% if page.url == '/' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ site.author.name | jsonify }},
+  "alternateName": "Sophia Qian",
+  "url": {{ '/' | absolute_url | jsonify }},
+  "image": {{ site.author.avatar | absolute_url | jsonify }},
+  "jobTitle": "Ph.D. student",
+  "affiliation": {"@type": "CollegeOrUniversity", "name": "Beijing Normal University"},
+  "sameAs": [{{ site.author.googlescholar | jsonify }}, "https://github.com/SophiaQian02"]
+}
+</script>
+{% endif %}
 <!-- end SEO -->

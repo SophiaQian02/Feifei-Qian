@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Feifei (Sophia) Qian"
+title                    : "Feifei Qian | Beijing Normal University"
 description              : "Graph Machine Learning · LLM Evaluation · LLM Post-training"
 repository               : "SophiaQian02/Sophia_Qian.github.io"
 google_scholar_stats_use_cdn : false
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Feifei (Sophia) Qian"
+  name             : "Feifei Qian"
   avatar           : "/images/portrait-web.jpg"
   bio              : "Ph.D. student, Beijing Normal University"
   location         : "Beijing, China"
