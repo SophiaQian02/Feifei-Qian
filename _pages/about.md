@@ -92,7 +92,7 @@ Specifically, my research focuses on:
 <span class='anchor' id='internships'></span>
 
 # 💻 Internships
-- **May 2026 – September 2026**, **Beike**, LLM Algorithm Intern.
+- **May 2026 – October 2026**, **Beike, Language and Intelligence Group**, LLM Algorithm Intern.
   - Developed agent data pipelines and two-stage supervised fine-tuning.
   - Built rubric-driven evaluation for AIGC agent workflows, covering tool-use trajectories, execution constraints, and delivery quality.
 
