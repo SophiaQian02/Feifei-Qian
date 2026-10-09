@@ -31,7 +31,7 @@ Specifically, my research focuses on:
 # 📝 Selected Publications
 
 <!-- Copy a complete paper-box block to add another featured publication. -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 · Spotlight</div><img src='{{ "/images/papers/entse.svg" | relative_url }}' alt="Conceptual overview of entropy-based structural encoding" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 · Spotlight</div><img src='{{ "/images/papers/entse.png" | relative_url }}' alt="Conceptual overview of entropy-based structural encoding" width="1021" height="443" loading="lazy" decoding="async" style="width:100%;height:auto"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Beyond Coordinates: Encoding Graph Structure via Contextual Distribution and Relational Similarity**
@@ -41,7 +41,7 @@ Specifically, my research focuses on:
 - EntSE and KerSE encode graph structure through contextual spectral distributions and relational similarity, connecting local information with expressive graph representations.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025 · Oral</div><img src='{{ "/images/papers/sde.svg" | relative_url }}' alt="Conceptual overview of sampling and discretization in high-entropy regions" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025 · Oral</div><img src='{{ "/images/papers/sde.png" | relative_url }}' alt="Conceptual overview of sampling and discretization in high-entropy regions" width="1257" height="545" loading="lazy" decoding="async" style="width:100%;height:auto"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Exploring the Over-smoothing Problem of Graph Neural Networks for Graph Classification: An Entropy-based Viewpoint**](https://www.ijcai.org/proceedings/2025/360)
@@ -52,7 +52,7 @@ Specifically, my research focuses on:
 - An entropy-based perspective on graph-level over-smoothing, with sampling and feature discretization to preserve information in high-entropy regions.
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 · Poster</div><img src='{{ "/images/papers/dhakr.svg" | relative_url }}' alt="Conceptual overview of hierarchical substructure composition and attention" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025 · Poster</div><img src='{{ "/images/papers/dhakr.png" | relative_url }}' alt="Conceptual overview of hierarchical substructure composition and attention" width="840" height="387" loading="lazy" decoding="async" style="width:100%;height:auto"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**DHAKR: Learning Deep Hierarchical Attention-Based Kernelized Representations for Graph Classification**](https://ojs.aaai.org/index.php/AAAI/article/download/34202/36357)
