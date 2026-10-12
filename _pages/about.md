@@ -30,6 +30,17 @@ My research interests span **graph machine learning, LLM evaluation, and LLM pos
 # 📝 Selected Publications
 
 <!-- Copy a complete paper-box block to add another featured publication. -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><a href="https://arxiv.org/pdf/2610.13375"><img src='{{ "/images/papers/arts-hybrid.png" | relative_url }}' alt="ARTS-Hybrid framework: adaptive rubric tree search, response-calibrated refinement, and global validation" width="1600" height="900" loading="lazy" decoding="async" style="width:100%;height:auto"></a></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**From Structure to Validity: Mechanism-Guided Generation and Refinement of LLM Rubrics**](https://arxiv.org/abs/2610.13375)
+
+**Feifei Qian**, Xuan Chen, Lixin Cui, Chaoyang Mei, Fanlin Meng, Shuyao Xiao, Ming Cui, Junxi Yin, Lu Bai
+
+[**arXiv**](https://arxiv.org/abs/2610.13375) / [**PDF**](https://arxiv.org/pdf/2610.13375)
+- ARTS-Hybrid combines adaptive rubric tree construction with semantic-first, response-calibrated refinement to improve rubric quality and LLM evaluation.
+</div></div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026 · Spotlight</div><img src='{{ "/images/papers/entse.png" | relative_url }}' alt="Conceptual overview of entropy-based structural encoding" width="1021" height="443" loading="lazy" decoding="async" style="width:100%;height:auto"></div></div>
 <div class='paper-box-text' markdown="1">
 
